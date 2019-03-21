@@ -3,7 +3,7 @@
   <Identity Name="b5f0f8e0-7ef8-4e02-baf9-eeb01b95d355" Publisher="CN=shuhei" Version="1.0.0.0" />
   <mp:PhoneIdentity PhoneProductId="b5f0f8e0-7ef8-4e02-baf9-eeb01b95d355" PhonePublisherId="00000000-0000-0000-0000-000000000000" />
   <Properties>
-    <DisplayName>Visual Studio Team Service UWP</DisplayName>
+    <DisplayName>Azure DevOps UWP</DisplayName>
     <PublisherDisplayName>shuhei</PublisherDisplayName>
     <Logo>Assets\StoreLogo.png</Logo>
   </Properties>
@@ -14,11 +14,11 @@
     <Resource Language="x-generate" />
   </Resources>
   <Applications>
-    <Application Id="App" Executable="$targetnametoken$.exe" EntryPoint="Visual_Studio_Team_Service_UWP.App">
-      <uap:VisualElements DisplayName="Visual Studio Team Service UWP" Square150x150Logo="Assets\Square150x150Logo.png" Square44x44Logo="Assets\Square44x44Logo.png" Description="Visual Studio Team Service UWP" BackgroundColor="white">
+    <Application Id="App" Executable="$targetnametoken$.exe" EntryPoint="AzureDevOpsUWP.App">
+      <uap:VisualElements DisplayName="Azure DevOps UWP" Square150x150Logo="Assets\Square150x150Logo.png" Square44x44Logo="Assets\Square44x44Logo.png" Description="Azure DevOps UWP" BackgroundColor="whiteSmoke">
         <uap:DefaultTile Wide310x150Logo="Assets\Wide310x150Logo.png" Square310x310Logo="Assets\LargeTile.png" Square71x71Logo="Assets\SmallTile.png">
         </uap:DefaultTile>
-        <uap:SplashScreen Image="Assets\SplashScreen.png" BackgroundColor="white" />
+        <uap:SplashScreen Image="Assets\SplashScreen.png" BackgroundColor="whiteSmoke" />
         <uap:InitialRotationPreference>
           <uap:Rotation Preference="portrait" />
           <uap:Rotation Preference="landscape" />
