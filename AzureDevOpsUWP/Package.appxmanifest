@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Package xmlns="http://schemas.microsoft.com/appx/manifest/foundation/windows10" xmlns:mp="http://schemas.microsoft.com/appx/2014/phone/manifest" xmlns:uap="http://schemas.microsoft.com/appx/manifest/uap/windows10" IgnorableNamespaces="uap mp">
-  <Identity Name="b5f0f8e0-7ef8-4e02-baf9-eeb01b95d355" Publisher="CN=shuhei" Version="1.0.0.0" />
+  <Identity Name="b5f0f8e0-7ef8-4e02-baf9-eeb01b95d355" Publisher="CN=shuhei" Version="1.0.1.0" />
   <mp:PhoneIdentity PhoneProductId="b5f0f8e0-7ef8-4e02-baf9-eeb01b95d355" PhonePublisherId="00000000-0000-0000-0000-000000000000" />
   <Properties>
     <DisplayName>Azure DevOps UWP</DisplayName>
